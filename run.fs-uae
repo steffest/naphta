@@ -1,0 +1,16 @@
+[fs-uae]
+accuracy = 1
+amiga_model = A500
+bsdsocket_library = 0
+chip_memory = 512
+cpu = 68000
+uae_cpu_speed = max
+slow_memory = 512
+floppy_drive_0 = $HOME/Dropbox/Emulation/Amiga/dev/demos/naphta/naphta.adf
+floppy_drive_count = 1
+floppy_drive_speed = 0
+floppy_drive_volume_empty = 0
+joystick_port_1 = none
+kickstart_file = /Users/stef/Dropbox/Emulation/Amiga/roms/Kickstart v1.3 rev 34.5 (1987)(Commodore)(A500-A1000-A2000-CDTV).rom
+save_disk = 0
+writable_floppy_images = 1

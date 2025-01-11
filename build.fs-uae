@@ -1,0 +1,18 @@
+[fs-uae]
+accuracy = 0
+amiga_model = A1200
+chip_memory = 2048
+cpu = 68030
+fast_memory = 8192
+floppy_drive_1 = $HOME/Dropbox/Emulation/Amiga/dev/demos/naphta/main.adf
+floppy_drive_count = 2
+floppy_drive_speed = 0
+floppy_drive_volume = 0
+floppy_drive_volume_empty = 0
+hard_drive_0 = /Users/stef/Dropbox/Emulation/Amiga/Harddisk/Steffest_Dev.hdf
+hard_drive_1 = /Users/stef/Dropbox/Emulation/Amiga
+joystick_port_1 = none
+kickstart_file = /Users/stef/Dropbox/Emulation/Amiga/roms/Kickstart v3.1 rev 40.68 (1993)(Commodore)(A1200).rom
+save_disk = 0
+writable_floppy_images = 1
+uaem_write_flags = 0

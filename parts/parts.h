@@ -1,0 +1,16 @@
+UBYTE intro_preload(void);
+void intro(void);
+BYTE getFogAsset(void);
+BYTE getNaphtaOverlay();
+UBYTE grid2_preload(void);
+void grid2(void);
+UBYTE trumpetplayer_preload(void);
+void trumpetplayer(void);
+void test_main(void);
+UBYTE grid_preload(void);
+void grid(UBYTE part);
+UBYTE dancer_preload(void);
+void dancer(void);
+UBYTE sax_preload(void);
+void sax(void);
+void end(void);

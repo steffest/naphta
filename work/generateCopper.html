@@ -1,0 +1,28 @@
+<textarea id="copper" style="width: 100%; height: 100%;"></textarea>
+
+<script>
+    let output = [];
+    let startLine = 120;
+    let endLine = 254;
+    let color = "COLORFADE1";
+
+    for (let i = startLine; i < endLine; i++) {
+        let hex = i.toString(16);
+        if (i>210) color = "COLORFADE2";
+        if (i>220) color = "COLORFADE3";
+        if (i>230) color = "COLORFADE4";
+        if (i>240) color = "COLORFADE5";
+        if (i>250) color = "COLORFADE6";
+       
+        output.push("0x" + hex + "67,0xfffe,0x180,"+color+",");
+        output.push("0x" + hex + "a7,0xfffe,0x180,0x000,");
+    }  
+
+
+
+    document.getElementById("copper").value = output.join("\n");
+
+
+
+</script>
+
