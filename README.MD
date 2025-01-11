@@ -3,6 +3,8 @@ NAPHTA
 An OldSkool Demo for Amiga OCS
 Runs on Amiga 500 with 515k FastRAM and beyond.
 
+[![NAPHTA](https://img.youtube.com/vi/CNF12snLUpE/0.jpg)](https://www.youtube.com/watch?v=CNF12snLUpE)
+
 Video on https://youtu.be/CNF12snLUpE
 
 Written in hardware banging C.
