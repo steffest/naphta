@@ -7,7 +7,7 @@ Runs on Amiga 500 with 515k FastRAM and beyond.
 
 Video on https://youtu.be/CNF12snLUpE
 
-Written in hardware banging C.
+Written in hardware banging C.  
 A big step up from my previous one (in System Friendly C) but still kind of slow.
 
 Compile with SAS-C on Amiga. (just run smake)
