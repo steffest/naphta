@@ -1,6 +1,6 @@
 Name: NAPTHA
 
-An OoldSkool demo inspired by a live performance I attended and captured of "NAFT", a Belgian Live Analog Techno band.
+An OldSkool demo inspired by a live performance I attended and captured of "NAFT", a Belgian Live Analog Techno band.
 
 The main song is based on "Paroxysm" by Naft.
 
