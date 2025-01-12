@@ -8,6 +8,6 @@ cp -r ./data/* ./disk/data/
 cp naphta-low.mod ./disk/
 rm ./naphta.exe
 cp main ./naphta.exe
-./tools/exe2adf -i naphta.exe -a naphta.adf -d ./disk/ -l NAPTHA -k -t wait.txt
+./tools/exe2adf -i naphta.exe -a naphta.adf -d ./disk/ -l NAPTHA -t wait.txt
 open ./run.fs-uae
 #open ./naphta.adf

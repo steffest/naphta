@@ -942,7 +942,7 @@ static UWORD blendColors[] = {
 UBYTE zIndex = 40;
 BOOL fadeIn = TRUE;
 UBYTE fadeOut = 0;
-BOOL useFill = TRUE;
+BOOL useFill = FALSE;
 
 static UWORD * getSpriteData(UBYTE index) {
     // F me .... how do you setup an array of var sized arrays in C?
